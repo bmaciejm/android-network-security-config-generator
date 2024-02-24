@@ -80,3 +80,6 @@ venv.bak/
 
 # MacOS
 .DS_Store
+
+# Project
+*.xml
